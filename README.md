@@ -1,6 +1,6 @@
 # Well Known Text
 
-This document provides a standalone reference describing the Well-known Representation of Geometry, which is fully specified in the 
+This document provides a standalone reference describing the Well-known Text Representation of Geometry, which is fully specified in the 
 [Simple Features Access](file:///Users/cholmes/Downloads/06-103r4_Implementation_Specification_for_Geographic_Information_-_Simple_feature_access_-_Part_1_Common_Architecture_v1.2.1.pdf)
 standard, section 7 (TODO: provide a link directly to that section when there is an html version online).
 
