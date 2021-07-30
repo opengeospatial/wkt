@@ -10,6 +10,13 @@ standard, section 7 (TODO: provide a link directly to that section when there is
 
 TODO: Describe what WKT is and what it's used for.
 
+### Contributing
+
+This repository aims to be a definitive reference for Well Known Text. If you've ever been frustrated trying to find the official reference please help out! 
+Pull Requests are encouraged. We'll need some official review before this becomes a definitive reference, but we should iterate to make it more useful. Lots
+of todos throughout the text, and we'll likely evolve to using github issues. But we're also hoping to make this a 'little' thing, not a big deal, just get
+to an iterative improvement and 'ship it'.
+
 ## Using Well Known Text
 
 Well Known Text is formally defined below, but its easier to get a sense of it by starting with some examples.
